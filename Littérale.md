@@ -1,0 +1,7 @@
+---
+title: Littérale
+id: 20220501124329
+type: Plan lvl2
+---
+
+Littérale découle de grammatisation et discrétisations [[générique:20220501122632]] .
