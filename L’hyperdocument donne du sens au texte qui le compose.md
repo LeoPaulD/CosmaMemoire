@@ -6,3 +6,4 @@ tags:
   - Hypothèses
 ---
 
+[[générique:20220623132103]]

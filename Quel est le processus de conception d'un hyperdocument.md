@@ -13,4 +13,4 @@ Dans un second temps, nous nous intéresserons au concept de l’hypermédia, en
    
 Pour finir nous nous intéresserons à l’hyperdocument.
   
-  De ce sujet, découle un cadre théorique pour mieux l'assimiler [[générique:20220623104805]].
+  De ce sujet, découle un cadre théorique pour mieux l'assimiler [[générique:20220501122347]].
