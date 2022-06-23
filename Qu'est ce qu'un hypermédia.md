@@ -6,4 +6,4 @@ tags:
   - Hypermedia
 ---
 
-Qu'est ce qu'un hypermédia découle des couches de l'hypermédia [[générique:20220613154610]] .
+Qu'est ce qu'un hypermédia découle de l'hypermédia [[générique:20220613154610]] .

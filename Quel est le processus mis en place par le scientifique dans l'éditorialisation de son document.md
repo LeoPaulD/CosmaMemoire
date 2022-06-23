@@ -1,8 +1,7 @@
 ---
 title: >-
-  Quel est le processus mis en place par le scientifique dans l'éditorialisation
-  de son document
+  Quel est le processus de conception d'un hyperdocument
 id: 20220611230912
-type: Question ?
+type: Sujet
 ---
 
