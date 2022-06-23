@@ -1,9 +1,9 @@
 ---
 title: Hypertexte
-id: 20220514134938
-type: Vocabulaire
+id: 20220613154550
+type: Plan
 tags:
   - Hypertexte
 ---
 
-L'hypertexte vocabulaire du mémoire [[générique:20220501122347]] .
+ L'hypertextes est un axe de mon mémoire [[générique:20220501122347]] .

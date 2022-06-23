@@ -6,7 +6,7 @@ tags:
   - Hyperdocument
 ---
 
-Appartient à [[générique:20220515154628]].
+Appartient à [[générique:20220613155035]].
 
 L’ensemble des noeuds et des liens constitue un « hyperdocument »
 dont la structure en réseau permet des parcours de lecture multiples : chaque

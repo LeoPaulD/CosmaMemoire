@@ -6,7 +6,7 @@ tags:
   - Hypertexte
 ---
 
-Appartient à [[générique:20220514134938]].
+Appartient à [[générique:20220613154550]].
  
 L’hypertexte désigne un mode de gestion de l’information dans lequel cette dernière est représentée sous la forme de blocs de texte appelés nœuds.
 Les nœuds sont reliés entre eux par des liens, que l’utilisateur « active » en cliquant au moyen de la souris sur une zone sensible de l’écran appelée « ancre », qui peut être représentée par une chaîne de caractères, une image ou partie d’image, un « bouton », etc… L’activation d’un lien provoque l’affichage à l’écran d’une nouvelle unité d’information. Les liens peuvent exprimer une relation d’ordre structurel ou hiérarchique entre les blocs : par exemple, un « clic » sur un élément d’une table des matières provoque l’affichage du chapitre correspondant, un « clic » sur un mot ouvre une fenêtre contenant sa définition, un « clic » sur une partie d’image simule un « zoom » sur cette zone de l’image, un clic sur un icône affiche un complément d’information ou un graphique associé au contenu du nœud, etc.

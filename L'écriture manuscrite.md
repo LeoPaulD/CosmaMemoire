@@ -1,7 +1,7 @@
 ---
 title: L'écriture manuscrite
 id: 20220501124244
-type: Plan lvl2
+type: Plan lvl3
 ---
 
 

@@ -5,4 +5,4 @@ type: Vocabulaire
 tags:
   - Editorialisation
 ---
-L'éditorialisation concept du mémoire [[générique:20220501122347]] .
+L'éditorialisation concept du mémoire [[générique:20220613154659]] .

@@ -1,9 +1,9 @@
 ---
 title: Hyperdocument
-id: 20220515154628
-type: Vocabulaire
+id: 20220613155035
+type: Plan
 tags:
   - Hyperdocument
 ---
 
-L'hyperdocument vocabulaire du mémoire [[générique:20220501122347]] .
+ L'hyperdocument est un axe de mon mémoire [[générique:20220501122347]] .
