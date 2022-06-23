@@ -6,4 +6,5 @@ tags:
   - Hypertexte
 ---
 
- L'hypertextes est un axe de mon mémoire [[générique:20220501122347]] .
+ L'hypertextes est le premier axe de mon mémoire [[générique:20220501122347]] .
+ 
